@@ -1,0 +1,13 @@
+Cell name: 03-03-21-ac
+
+Signal 1
+Name: gauss_st6_co200.dat
+Intensity: 71 dB
+Cut off frequency: 200 Hz
+
+Signal 2
+Name: gauss_st6_co25.dat
+Intensity: 72 dB
+Cut off frequency: 25 Hz
+
+same cell as: 03-03-21-ab ac

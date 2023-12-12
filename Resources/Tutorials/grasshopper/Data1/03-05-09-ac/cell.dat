@@ -1,0 +1,12 @@
+Cell name: 03-05-09-ac
+
+Signal 1
+Name: st6_co200.dat
+Intensity: 63.9 dB
+Cut off frequency: 200 Hz
+
+Signal 2
+Name: st6_co25.dat
+Intensity: 63.6 dB
+Cut off frequency: 25 Hz
+same cell as: 03-05-09-ac

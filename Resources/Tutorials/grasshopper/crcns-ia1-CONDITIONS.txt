@@ -1,0 +1,26 @@
+======================================================================
+Locusta Migratoria auditory receptor cell data set - conditions of use
+======================================================================
+
+:Author: Ariel Rokem
+:Contact: arokem@berkeley.edu
+:Date: 2009-04-19
+
+Data in this data set can be used freely. However, if you wish to publish work
+based on analysis of this data we ask that you do (at least) the following:
+
+1. Any derived publication should include citation of the work describing the
+methods used in order to collect the data (any of the papers mentioned in README.txt).
+
+2. We ask that you acknowledge our role in collecting the data, by adding to
+your paper (either in the methods or in the acknowledgment section) something
+to the following effect: "Ariel Rokem collected the data at the lab of Andreas
+Herz and provided it through the CRCNS program (http://crcns.org)"
+
+Limits of our liability and responsibility : The data is provided as-is, and we
+assume no responsibility for any effects of use of this data. We also make no
+committment to respond to any inquiries about the data.
+
+Comment: As mentioned above, we do not make any committment to provide comments
+on work derived from this data, but we would be happy to be given a chance to
+read and be allowed to comment on any work derived from analysis of this data.

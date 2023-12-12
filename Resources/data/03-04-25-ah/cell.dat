@@ -1,0 +1,13 @@
+Cell name: 03-04-25-ah
+
+Signal 1
+Name: gauss_st6_co200.dat
+Intensity: 75.3 dB
+Cut off frequency: 200 Hz
+
+Signal 2
+Name: gauss_st6_co400.dat
+Intensity: 73 dB
+Cut off frequency: 400 Hz
+
+same cell as: 03-04-25-ag ah

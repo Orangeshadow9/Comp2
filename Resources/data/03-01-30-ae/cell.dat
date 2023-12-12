@@ -1,0 +1,13 @@
+Cell name: 03-01-30-ae
+
+Signal 1
+Name: gaussModality_co200.dat
+Intensity: 60 dB
+Cut off frequency: 200 Hz
+
+Signal 2
+Name: lmd_co200.dat
+Intensity: 63 dB
+Cut off frequency: 200 Hz
+
+same cell as: 03-01-30-ad ae

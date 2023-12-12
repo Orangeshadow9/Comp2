@@ -1,0 +1,12 @@
+Cell name: 03-05-09-ad
+
+Signal 1
+Name: gaussModality_co200.dat
+Intensity: 64.8 dB
+Cut off frequency: 200 Hz
+
+Signal 2
+Name: lmd_co200.dat
+Intensity: 58 dB
+Cut off frequency: 200 Hz
+same cell as: 03-05-09-ad
